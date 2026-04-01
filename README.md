@@ -1,7 +1,6 @@
 
-## Hi,I'm Bekturģanova  Makariya 👋
+## Hi I'm Bekturģanova Makariya <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMnoxMzh2MWgxbDk1Y3VrbWxndjQ5enRmbDc0dW0wdDRmOXo4NHA1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SwZBtqe4yvEWP7q07X/giphy.gif">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMnoxMzh2MWgxbDk1Y3VrbWxndjQ5enRmbDc0dW0wdDRmOXo4NHA1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SwZBtqe4yvEWP7q07X/giphy.gif">
 <!--
 **makariyaswe/makariyaswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
